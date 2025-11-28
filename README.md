@@ -8,12 +8,14 @@ Angular related notes
 [CreateApplication.md](./Angular/CreateApplication.md) - creating Angular application   
 [CreateReusableComponent.md](./Angular/CreateReusableComponent.md) - creating Angular component  
 [CreateSharedComponent.md](./Angular/CreateSharedComponent.md) - creating Angular component, which can be shared across applications  
-[InstallMCPServer.md](./Angular/InstallMCPServer.md) - installing angular MCP server
+[InstallMCPServer.md](./Angular/InstallMCPServer.md) - installing angular MCP server  
+[UpdatePackages.md](./Angular/UpdatePackages.md) - update dependencies in Angular application
 
 ## Azure
 Azure related notes
 
-[CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on azure
+[CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on Azure
+[CreateWebService.md](./Azure/CreateWebService.md) - creating Web Service on Azure
 
 ## GitHub folder
 GitHub related notes
