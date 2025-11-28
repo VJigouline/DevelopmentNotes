@@ -13,7 +13,8 @@ Angular related notes
 ## Markdown folder
 Markdown language related nodes
 
-Syntax.md - markdown syntax summary
+**Syntax.md** - markdown syntax summary  
+**ToHTML.md** - converting to HTML pages
 
 ## Node.js folder
 Node.js related notes
