@@ -1,5 +1,5 @@
 # DevelopmentNotes
-Collection of general useful notes
+Collection of useful development notes
 
 ## Angular folder
 Angular related notes
