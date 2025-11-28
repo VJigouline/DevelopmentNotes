@@ -10,6 +10,11 @@ Angular related notes
 [CreateSharedComponent.md](./Angular/CreateSharedComponent.md) - creating Angular component, which can be shared across applications  
 [InstallMCPServer.md](./Angular/InstallMCPServer.md) - installing angular MCP server
 
+## GitHub folder
+GitHub related notes
+
+[CreatePage.md](./GitHub/CreatePage.md) - creating static GitHub page web site
+
 ## Markdown folder
 Markdown language related nodes
 
