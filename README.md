@@ -6,7 +6,8 @@ Angular related notes
 
 **Install.md** - installation notes  
 **CreateReusableComponent.md** - creating Angular component  
-**CreateSharedComponent.md** - creating Angular component, which can be shared across applications
+**CreateSharedComponent.md** - creating Angular component, which can be shared across applications  
+**InstallMCPServer.md** - installing angular MCP server
 
 ## Markdown folder
 Markdown language related nodes
