@@ -1,6 +1,11 @@
 # DevelopmentNotes
 Collection of general useful notes
 
+## Angular folder
+Angular related notes
+
+**Install.md** - installation notes
+
 ## Node.js folder
 Node.js related notes
 
