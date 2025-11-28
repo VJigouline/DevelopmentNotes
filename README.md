@@ -10,6 +10,11 @@ Angular related notes
 [CreateSharedComponent.md](./Angular/CreateSharedComponent.md) - creating Angular component, which can be shared across applications  
 [InstallMCPServer.md](./Angular/InstallMCPServer.md) - installing angular MCP server
 
+## Azure
+Azure related notes
+
+[CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on azure
+
 ## GitHub folder
 GitHub related notes
 
