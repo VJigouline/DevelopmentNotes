@@ -4,7 +4,8 @@ Collection of general useful notes
 ## Angular folder
 Angular related notes
 
-**Install.md** - installation notes  
+**Install.md** - installation notes 
+**CreateApplication.md** - creating Angular application   
 **CreateReusableComponent.md** - creating Angular component  
 **CreateSharedComponent.md** - creating Angular component, which can be shared across applications  
 **InstallMCPServer.md** - installing angular MCP server
