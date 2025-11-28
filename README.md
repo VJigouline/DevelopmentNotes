@@ -4,7 +4,14 @@ Collection of general useful notes
 ## Angular folder
 Angular related notes
 
-**Install.md** - installation notes
+**Install.md** - installation notes  
+**CreateReusableComponent.md** - creating Angular component  
+**CreateSharedComponent.md** - creating Angular component, which can be shared across applications
+
+## Markdown folder
+Markdown language related nodes
+
+Syntax.md - markdown syntax summary
 
 ## Node.js folder
 Node.js related notes
