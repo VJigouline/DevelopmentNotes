@@ -18,14 +18,16 @@ Collection of useful development notes
 ## GitHub
 
 [CreatePage.md](./GitHub/CreatePage.md) - creating static GitHub page web site  
-[GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown
+[GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown  
+[GraphViz.md](./Markdown/GraphViz.md) - using GraphViz in Markdown
 
 ## Markdown language
 
 [Syntax.md](./Markdown/Syntax.md) - markdown syntax summary  
 [ToHTML.md](./Markdown/ToHTML.md) - converting to HTML pages  
 [GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown  
-[LaTeX.md](./Markdown/LaTeX.md) - using LaTeX in Markdown
+[LaTeX.md](./Markdown/LaTeX.md) - using LaTeX in Markdown  
+[GraphViz.md](./Markdown/GraphViz.md) - using GraphViz in Markdown
 
 ## Node.js
 
