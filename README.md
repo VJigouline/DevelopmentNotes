@@ -24,7 +24,8 @@ Collection of useful development notes
 
 [Syntax.md](./Markdown/Syntax.md) - markdown syntax summary  
 [ToHTML.md](./Markdown/ToHTML.md) - converting to HTML pages  
-[GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown
+[GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown  
+[LaTeX.md](./Markdown/LaTeX.md) - using LaTeX in Markdown
 
 ## Node.js
 
