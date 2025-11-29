@@ -2,7 +2,6 @@
 Collection of useful development notes
 
 ## Angular
-Angular related notes
 
 [Install.md](./Angular/Install.md) - installation notes  
 [CreateApplication.md](./Angular/CreateApplication.md) - creating Angular application   
@@ -12,33 +11,27 @@ Angular related notes
 [UpdatePackages.md](./Angular/UpdatePackages.md) - update dependencies in Angular application
 
 ## Azure
-Azure related notes
 
 [CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on Azure
 [CreateWebService.md](./Azure/CreateWebService.md) - creating Web Service on Azure
 
-## GitHub folder
-GitHub related notes
+## GitHub
 
 [CreatePage.md](./GitHub/CreatePage.md) - creating static GitHub page web site
 
-## Markdown folder
-Markdown language related nodes
+## Markdown language
 
 [Syntax.md](./Markdown/Syntax.md) - markdown syntax summary  
 [ToHTML.md](./Markdown/ToHTML.md) - converting to HTML pages
 
-## Node.js folder
-Node.js related notes
+## Node.js
 
 [Install.md](./Node.js/Install.md) - installation notes
 
-## PowerShell notes
-PowerShell related notes
+## PowerShell
 
 [NpmCannotBeLoaded.md](./PowerShell/NpmCannotBeLoaded.md) - resolution of the security problem to run npm
 
-## Typescript folder
-Typescript related notes
+## Typescript
 
 [Install.md](./Typescript/Install.md) - installation notes
