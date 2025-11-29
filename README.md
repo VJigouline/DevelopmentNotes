@@ -12,7 +12,7 @@ Collection of useful development notes
 
 ## Azure
 
-[CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on Azure
+[CreateStaticWebSite.md](./Azure/CreateStaticWebSite.md) - creating static web site on Azure  
 [CreateWebService.md](./Azure/CreateWebService.md) - creating Web Service on Azure
 
 ## GitHub
