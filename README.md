@@ -32,7 +32,7 @@ Collection of useful development notes
 
 ## Node.js
 
-[Install.md](./Node.js/Install.md) - installation notes
+[Install.md](./Node.js/Install.md) - installation notes  
 [InstallNVM.md](./Node.js/InstallNVM.md) - installing NVM (Node version manager)
 
 ## PowerShell
