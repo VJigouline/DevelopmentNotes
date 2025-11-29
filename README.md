@@ -1,7 +1,7 @@
 # DevelopmentNotes
 Collection of useful development notes
 
-## Angular folder
+## Angular
 Angular related notes
 
 [Install.md](./Angular/Install.md) - installation notes  
