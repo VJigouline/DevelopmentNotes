@@ -19,7 +19,8 @@ Collection of useful development notes
 
 [CreatePage.md](./GitHub/CreatePage.md) - creating static GitHub page web site  
 [GitHub extensions.md](./Markdown/GitHub%20extensions.md) - GitHub extension for Markdown  
-[GraphViz.md](./Markdown/GraphViz.md) - using GraphViz in Markdown
+[GraphViz.md](./Markdown/GraphViz.md) - using GraphViz in Markdown  
+[EnableMermaid.md](./GitHub/EnableMermaid.md) - about Mermaid (GraphViz) on GitHub
 
 ## Markdown language
 
