@@ -8,6 +8,7 @@ Collection of useful development notes
 [CreateReusableComponent.md](./Angular/CreateReusableComponent.md) - creating Angular component  
 [CreateSharedComponent.md](./Angular/CreateSharedComponent.md) - creating Angular component, which can be shared across applications  
 [InstallMCPServer.md](./Angular/InstallMCPServer.md) - installing angular MCP server  
+[NgCommands.md](./Angular/NgCommands.md) - ng commands  
 [UpdatePackages.md](./Angular/UpdatePackages.md) - update dependencies in Angular application
 
 ## Azure
