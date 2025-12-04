@@ -4,6 +4,7 @@ Collection of useful development notes
 ## Angular
 
 [Install.md](./Angular/Install.md) - installation notes  
+[AddRoutes.md](./Angular/AddRoutes.md) - working with routes  
 [CreateApplication.md](./Angular/CreateApplication.md) - creating Angular application   
 [CreateReusableComponent.md](./Angular/CreateReusableComponent.md) - creating Angular component  
 [CreateSharedComponent.md](./Angular/CreateSharedComponent.md) - creating Angular component, which can be shared across applications  
